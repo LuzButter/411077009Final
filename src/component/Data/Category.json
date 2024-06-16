@@ -1,0 +1,134 @@
+[
+    {
+        "type": "FAMILY",
+        "value": 1972
+    },
+    {
+        "type": "GAME",
+        "value": 1144
+    },
+    {
+        "type": "TOOLS",
+        "value": 843
+    },
+    {
+        "type": "MEDICAL",
+        "value": 463
+    },
+    {
+        "type": "BUSINESS",
+        "value": 460
+    },
+    {
+        "type": "PRODUCTIVITY",
+        "value": 424
+    },
+    {
+        "type": "PERSONALIZATION",
+        "value": 392
+    },
+    {
+        "type": "COMMUNICATION",
+        "value": 387
+    },
+    {
+        "type": "SPORTS",
+        "value": 384
+    },
+    {
+        "type": "LIFESTYLE",
+        "value": 382
+    },
+    {
+        "type": "FINANCE",
+        "value": 366
+    },
+    {
+        "type": "HEALTH_AND_FITNESS",
+        "value": 341
+    },
+    {
+        "type": "PHOTOGRAPHY",
+        "value": 335
+    },
+    {
+        "type": "SOCIAL",
+        "value": 295
+    },
+    {
+        "type": "NEWS_AND_MAGAZINES",
+        "value": 283
+    },
+    {
+        "type": "SHOPPING",
+        "value": 260
+    },
+    {
+        "type": "TRAVEL_AND_LOCAL",
+        "value": 258
+    },
+    {
+        "type": "DATING",
+        "value": 234
+    },
+    {
+        "type": "BOOKS_AND_REFERENCE",
+        "value": 231
+    },
+    {
+        "type": "VIDEO_PLAYERS",
+        "value": 175
+    },
+    {
+        "type": "EDUCATION",
+        "value": 156
+    },
+    {
+        "type": "ENTERTAINMENT",
+        "value": 149
+    },
+    {
+        "type": "MAPS_AND_NAVIGATION",
+        "value": 137
+    },
+    {
+        "type": "FOOD_AND_DRINK",
+        "value": 127
+    },
+    {
+        "type": "HOUSE_AND_HOME",
+        "value": 88
+    },
+    {
+        "type": "LIBRARIES_AND_DEMO",
+        "value": 85
+    },
+    {
+        "type": "AUTO_AND_VEHICLES",
+        "value": 85
+    },
+    {
+        "type": "WEATHER",
+        "value": 82
+    },
+    {
+        "type": "ART_AND_DESIGN",
+        "value": 65
+    },
+    {
+        "type": "EVENTS",
+        "value": 64
+    },
+    {
+        "type": "PARENTING",
+        "value": 60
+    },
+    {
+        "type": "COMICS",
+        "value": 60
+    },
+    {
+        "type": "BEAUTY",
+        "value": 53
+    }
+]
